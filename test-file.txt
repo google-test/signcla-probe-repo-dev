@@ -1,0 +1,1 @@
+New test file created at 2020-07-08 15:56:01.760549132 -0700 PDT m=+8.698074295 to test SignCLA
